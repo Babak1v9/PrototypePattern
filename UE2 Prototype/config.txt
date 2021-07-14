@@ -1,0 +1,7 @@
+ShortSword
+ShortSword
+LongSword
+LongSword
+LongSword
+LongSword
+ShortSword
